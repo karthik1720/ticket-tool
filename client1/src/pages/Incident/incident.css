@@ -1,0 +1,85 @@
+.IncidentContainer {
+  padding: 40px 15% 40px 15%;
+  display: flex;
+  flex-direction: column;
+}
+
+.IncidentSections2 {
+  display: flex;
+  flex-direction: row;
+  gap: 10%;
+}
+.IncidentSection {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.IncidentStatus {
+  display: flex;
+  justify-content: end;
+}
+
+.IncidentSubmit {
+  max-width: fit-content;
+}
+
+.IncidentInputLabel {
+  padding-top: 15px;
+}
+.IncidentInput {
+  border: none;
+  background-color: white;
+  border-style: groove;
+  border-radius: 5px;
+  resize: none;
+}
+
+/* 
+.IncidentMulti {
+  display: flex;
+}
+
+.Incident2 {
+  flex: 6;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.IncidentInputLarge {
+  display: flex;
+  flex-grow: 0.6;
+  flex-shrink: 0;
+}
+
+.Incident3 {
+  width: 100%;
+  display: flex;
+}
+.Customlabel {
+  width: 100px;
+  clear: left;
+  text-align: right;
+  padding-right: 10px;
+}
+
+.Custominput,
+.Customlabel {
+  float: left;
+}
+
+.IncidentButton {
+  height: 50px;
+}
+
+.Incident1Container {
+  width: 100%;
+  height: 100%;
+}
+.Incident1Form {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */ ;
